@@ -455,6 +455,15 @@ h4{
 .sky-circle3 {
   animation: fadeInOut 8s 40s ease-in infinite;
 }
+#Vlogs{
+
+  width: 3000px;
+  height: 300px;
+  background-image: linear-gradient(red, yellow, green);
+  animation: mymove 5s infinite;
+  color: white;
+}
+
 
 /* #f10eatures{
   background: #800000;
