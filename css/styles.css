@@ -459,7 +459,7 @@ h4{
 
   width: 3000px;
   height: 300px;
-  background-image: linear-gradient(red, yellow, green);
+  background-color: #CCCCFF;
   animation: mymove 5s infinite;
   color: white;
 }
